@@ -1,5 +1,1 @@
-
-
-
-https://github.com/Nirob-0812/Object_Detection_Yolo/assets/75689692/0ae17b2a-4d60-40b2-834d-adaf1e171914
-
+![final_GIF](https://github.com/Nirob-0812/Object_Detection_Yolo/assets/75689692/12b5620f-34dc-4b5e-9c89-59afe48a0c5f)
